@@ -1,7 +1,7 @@
 
 for non-technical people from many fields : 
 
-kindly visit this link in medium website : 
+kindly visit the link below in medium website : 
 
 https://almozial-abdullah.medium.com/can-you-guess-what-is-the-secret-of-academic-success-712e0ef2c396
 
