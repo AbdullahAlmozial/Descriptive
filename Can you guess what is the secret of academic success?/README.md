@@ -1,5 +1,5 @@
 
-### for Non-technical people from many fields : 
+### For Non-technical people from many fields : 
 
 kindly visit the link below in medium website : 
 
