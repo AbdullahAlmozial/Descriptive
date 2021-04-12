@@ -1,14 +1,37 @@
 
-for non-technical people from many fields : 
+### for Non-technical people from many fields : 
 
 kindly visit the link below in medium website : 
 
 https://almozial-abdullah.medium.com/can-you-guess-what-is-the-secret-of-academic-success-712e0ef2c396
 
+# project : 
+
 
 ### Can you guess what is the secret of academic success?
 
 As student or parents for students one of the most important things to know what is the secret of academic success, So in this post, we will answer this question through an excellent set which contains information about the life of students of mathematical courses and their academic success. As for me, I am very interested to examine in detail the information about the students and find out what influences their grades the most. This is a really interesting topic.
+
+
+Questions :
+
+-	Do you think when you spending more hours in studies, is that will make you get higher grades than those who do the opposite of this?
+-	Do you think students in good health get higher grades than those who have bad health?
+-	students that get grades above than average, what their parents working?
+-	do you think alcohol affecting on grades rate?
+-	if you have access to the internet is this make you get a higher degree than those who don't have access to the internet? (yes I'm shocked like you)
+-	Do you think when students who live in the city have a lower Absence rate than those who live in the village?
+-	Is there any effect of the Romantic relationship whether positive or negative on the final grades rate?
+-	Do you think when parents pay for their children on extra courses will make them get higher final grade than those who their parent doesn't pay
+-	Do you think the student's desire to get higher education is an important factor in success?
+-	when parents of students are together (not divorced) that will help them to get high grades?
+-	when the quality of relationships in the family of students is good that will help them to get high grades?
+
+
+### Code
+
+Template code is provided in the `Can you guess what is the secret of academic success?.ipynb` notebook file and the `student-mat.csv` dataset file to complete your work. 
+
 
 
 ### Install
