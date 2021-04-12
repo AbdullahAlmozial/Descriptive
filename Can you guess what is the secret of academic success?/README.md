@@ -47,9 +47,14 @@ You will also need to have software installed to run and execute an [iPython Not
 
 We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 
-### Data
+
+## Declarations :
+
+##### Availability of data :
+The variables used and analyzed during the current report are available in the following Datasets/websites:
 
 kaggle : https://www.kaggle.com/uciml/student-alcohol-consumption
+
 
 ### Context:
 The data were obtained in a survey of students math and portuguese language courses in secondary school. It contains a lot of interesting social, gender and study information about students. You can use it for some EDA or try to predict students final grade.
